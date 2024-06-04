@@ -1,6 +1,7 @@
 # Loot Game Minner Check
 Auto check Loot Game Minner<br>
 - Register link : [Register Here](https://t.me/gamee?start=ref_7027899934)
+- Ongoing Event WP (WAT Coin)
   
 # Requirement
 - NodeJs v18 or latest
