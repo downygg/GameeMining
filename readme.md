@@ -6,8 +6,8 @@ Auto check Loot Game Minner<br>
 - NodeJs v18 or latest
 
 # How To use
-- ```git clone https://github.com/downygg/LootGamee.git```
-- ```cd LootGamee```
+- ```git clone https://github.com/downygg/GameMining.git```
+- ```cd GameMining```
 - ```npm i```
 - ```edit session.txt```
 - ```node index.js```
